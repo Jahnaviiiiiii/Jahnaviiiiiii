@@ -28,7 +28,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> ABOUT ME
 
 </div>
-> *"I don't just train models — I build systems that make data actionable."*
+ "I don't just train models — I build systems that make data actionable."
 
 <br/>
 
